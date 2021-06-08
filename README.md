@@ -72,7 +72,8 @@ should return the health points value.
 The input maze M is provided as a 2-D array as shown
 in the example below.
 Example:
-The minimum health points needed are 2. X would follow the path
-down->down->right->right
+The minimum health points needed are 2. 
+X would follow the path down->down->right->right
+
 Sample Input: M: [[-1, -2, 2], [10, -8, 1], [-5, -2, -3]]; Output: 2
 
