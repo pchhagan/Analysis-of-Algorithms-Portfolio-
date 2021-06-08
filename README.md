@@ -67,10 +67,13 @@ As X enters that space, X would either gain health or lose health. The first roo
 impact Mr.X’s energy levels.
 To begin with Mr.X starts with some health points. X might lose or gain health points as X
 enters into different spaces in the maze.
-Find the initial health points needed for Mr.X to be able to win the keys (K). Your function
-should return the health points value. 
+Find the initial health points needed for Mr.X to be able to win the keys (K). 
+
+Your function should return the health points value. 
+
 The input maze M is provided as a 2-D array as shown
 in the example below.
+
 Example:
 The minimum health points needed are 2. 
 X would follow the path down->down->right->right
