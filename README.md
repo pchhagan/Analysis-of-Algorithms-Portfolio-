@@ -56,16 +56,19 @@ Problem C:
 Name your function: getTesla(M)
 File name: GetTesla.py
 Mr.X is in a maze. Tesla’s latest model car’s keys (K) are in the bottom right corner of the
-maze. Mr.X is located at the top left corner of the room. The rooms are connected in such a
+maze. 
+Mr.X is located at the top left corner of the room. The rooms are connected in such a
 way that Mr.X can move only right or down in a single step.
 At each step there is a energy booster (positive integers) or a energy exhausting space
-(represented by negative integers) or neutral space (represented by 0). As X enters that
+(represented by negative integers) or neutral space (represented by 0). 
+As X enters that
 space, X would either gain health or lose health. The first room and the last room would also
 impact Mr.X’s energy levels.
 To begin with Mr.X starts with some health points. X might lose or gain health points as X
 enters into different spaces in the maze.
 Find the initial health points needed for Mr.X to be able to win the keys (K). Your function
-should return the health points value. The input maze M is provided as a 2-D array as shown
+should return the health points value. 
+The input maze M is provided as a 2-D array as shown
 in the example below.
 Example:
 The minimum health points needed are 2. X would follow the path
